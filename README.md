@@ -2,8 +2,6 @@
 
 I am currently in my 4th year at ECE, an engineering school, where I am pursuing a Major in Cybersecurity.
 
-I am particularly interested in building practical systems at the intersection of **cybersecurity, data, and artificial intelligence**.
-
 ---
 
 # 🚀 Project
@@ -47,9 +45,8 @@ This project focuses on detecting whether an email is **Legitimate** or **Phishi
 
 - Python, SQL  
 - Machine Learning, NLP  
-- Cybersecurity fundamentals  
-- Data processing and feature engineering  
-
+- Cybersecurity fundamentals
+  
 ---
 
 ## 🛡️ Securing a Medical Portal with AI-Based Intrusion Detection (Blue/Purple Team)
@@ -111,9 +108,8 @@ This AI-based component strengthens the monitoring system by enabling **adaptive
 # 🧠 Skills
 
 - Python, SQL  
-- Machine Learning, NLP  
+- Machine Learning
 - Cybersecurity fundamentals  
-- Data processing and feature engineering  
 
 ---
 
