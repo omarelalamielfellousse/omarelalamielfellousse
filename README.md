@@ -71,13 +71,13 @@ This project simulates real-world cybersecurity operations by combining **Blue T
 
 ### 🖥️ Dashboard Preview
 
-![SOC Dashboard](https://raw.githubusercontent.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille/main/images/dashboard.png)
+![SOC Dashboard](https://raw.githubusercontent.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille/main/docs/rapport_blue_team/screenshots/dashboard.png)
 
 ---
 
 ### 🖥️ Logs / Detection Example
 
-![SOC Logs](https://raw.githubusercontent.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille/main/images/logs.png)
+![SOC Logs](https://raw.githubusercontent.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille/main/docs/rapport_blue_team/screenshots/security_log.png)
 
 ---
 
