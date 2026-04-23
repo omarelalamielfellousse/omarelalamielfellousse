@@ -11,7 +11,7 @@ I am particularly interested in building practical systems at the intersection o
 | Project | Contributors |
 |--------|-------------|
 | [Phishing Email Detection](https://github.com/omarelalamielfellousse/phishing-detection-nlp) | Omar El Alami El Fellousse |
-| [Cybersecurity Monitoring & Intrusion Detection Platform](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille)| Omar El Alami El Fellousse , Yassir Mousmahi, Mohamed Abdoul Rahime Barro, Achille Bekandon|
+| [Securing a Medical Portal with AI-Based Intrusion Detection](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille)| Omar El Alami El Fellousse , Yassir Mousmahi, Mohamed Abdoul Rahime Barro, Achille Bekandon|
 
 ---
 
@@ -52,7 +52,7 @@ This project focuses on detecting whether an email is **Legitimate** or **Phishi
 
 ---
 
-## 🛡️ Cybersecurity Monitoring & Intrusion Detection Platform (Blue/Purple Team)
+## 🛡️ Securing a Medical Portal with AI-Based Intrusion Detection (Blue/Purple Team)
 
 👉 [View Project](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille)
 
@@ -69,6 +69,19 @@ This project simulates real-world cybersecurity operations by combining **Blue T
 
 ---
 
+### 🤖 AI-Based Intrusion Detection (Isolation Forest)
+
+To enhance the detection of suspicious activities, an anomaly detection approach based on **Isolation Forest** was implemented.
+
+- The model analyzes security logs and identifies abnormal behavior patterns
+- It detects anomalies such as unusual access attempts or suspicious activity sequences
+- Unlike rule-based systems, this approach allows the detection of **previously unseen attacks**
+- The model assigns anomaly scores to events, helping prioritize potential threats
+
+This AI-based component strengthens the monitoring system by enabling **adaptive and data-driven intrusion detection**.
+
+---
+
 ### 🖥️ Dashboard Preview
 
 ![SOC Dashboard](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille/blob/main/docs/rapport_blue_team/screenshots/dashboard.png)
@@ -78,6 +91,10 @@ This project simulates real-world cybersecurity operations by combining **Blue T
 ### 🖥️ Logs / Detection Example
 
 ![SOC Logs](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille/blob/main/docs/rapport_blue_team/screenshots/security_log.png)
+
+### 🧠 AI Detection Visualization
+
+![Isolation Forest Detection](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille/blob/main/docs/rapport_blue_team/screenshots/intrusion_dashboard.png)
 
 ---
 
