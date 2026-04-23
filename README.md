@@ -10,7 +10,7 @@ I am particularly interested in building practical systems at the intersection o
 
 | Project | Contributors |
 |--------|-------------|
-| Phishing Email Detection | Omar El Alami El Fellousse |
+| [Phishing Email Detection](https://github.com/omarelalamielfellousse/phishing-detection-nlp) | Omar El Alami El Fellousse |
 
 ---
 
