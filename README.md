@@ -145,7 +145,7 @@ This project focuses on detecting violent content in videos using deep learning 
 
 # 📫 Contact
 
-- LinkedIn: linkedin.com/in/omar-el-alami-el-fellousse-6795a226a
+- LinkedIn: [Omar El Alami El Fellousse](https://linkedin.com/in/omar-el-alami-el-fellousse-6795a226a)
 
 ---
 
