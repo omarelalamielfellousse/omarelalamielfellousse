@@ -10,7 +10,7 @@ I am currently in my 4th year at ECE, an engineering school, where I am pursuing
 |--------|-------------|
 | [Phishing Email Detection](https://github.com/omarelalamielfellousse/phishing-detection-nlp) | Omar El Alami El Fellousse |
 | [Securing a Medical Portal with AI-Based Intrusion Detection](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille)| Omar El Alami El Fellousse , Yassir Mousmahi, Mohamed Abdoul Rahime Barro, Achille Bekandon|
-
+| [Violence Detection in Videos using CNN](https://github.com/omarelalamielfellousse/violence-detection-cnn) | Omar El Alami El Fellousse , Yassir Mousmahi, Mohamed Abdoul Rahime Barro, Clément D'Alberto|
 ---
 
 ## 🔐 Phishing Email Detection (NLP + Machine Learning)
@@ -112,6 +112,33 @@ This AI-based component strengthens the monitoring system by enabling **adaptive
 - Cybersecurity fundamentals  
 
 ---
+
+## 🎥 Violence Detection in Videos using Convolutional Neural Networks (CNN)
+
+👉 [View Project](https://github.com/omarelalamielfellousse/violence-detection-cnn)
+
+This project focuses on detecting violent content in videos using deep learning techniques.
+
+### Key Highlights
+
+- Built a **CNN-based model** for video classification
+- Processed video data through frame extraction
+- Applied deep learning for **violence detection**
+- Designed a pipeline for handling video inputs and predictions
+- Focused on real-world applications such as **content moderation and security**
+
+---
+
+### 🧠 Concepts Covered
+
+- Computer Vision
+- Deep Learning (CNN)
+- Video processing and frame extraction
+- Binary classification (Violence vs Non-Violence)
+
+### 🖥️ Prediction Output Example
+
+![Violence Detection](https://raw.githubusercontent.com/omarelalamielfellousse/violence-detection-cnn/main/assets/video_prediction.png)
 
 # 📫 Contact
 
