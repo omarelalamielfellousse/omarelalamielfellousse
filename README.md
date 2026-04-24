@@ -8,7 +8,7 @@ I am currently in my 4th year at ECE, an engineering school, where I am pursuing
 
 | Project | Contributors |
 |--------|-------------|
-| [Phishing Email Detection](https://github.com/omarelalamielfellousse/phishing-detection-nlp) | Omar El Alami El Fellousse |
+| [Phishing Email Detection](https://github.com/omarelalamielfellousse/phishing-detection-nlp) | [Omar El Alami El Fellousse](https://github.com/omarelalamielfellousse)|
 | [Securing a Medical Portal with AI-Based Intrusion Detection](https://github.com/omarelalamielfellousse/SecuriteDesSystemesDInformation_Omar_Yassir_MohamedBarro_Achille)| Omar El Alami El Fellousse , Yassir Mousmahi, Mohamed Abdoul Rahime Barro, Achille Bekandon|
 | [Violence Detection in Videos using CNN](https://github.com/omarelalamielfellousse/violence-detection-cnn) | Omar El Alami El Fellousse , Yassir Mousmahi, Mohamed Abdoul Rahime Barro, Clément D'Alberto|
 ---
