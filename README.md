@@ -140,6 +140,14 @@ This project focuses on detecting violent content in videos using deep learning 
 
 ![Violence Detection](https://raw.githubusercontent.com/omarelalamielfellousse/violence-detection-cnn/main/assets/video_prediction.png)
 
+---
+
 # 📫 Contact
 
 - LinkedIn: linkedin.com/in/omar-el-alami-el-fellousse-6795a226a
+
+---
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=omarelalamielfellousse&color=blue)
